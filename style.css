@@ -50,15 +50,28 @@ nav {
   top: 20px;          /* distance from the top of the page */
   right: 30px;        /* distance from the right edge */
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> 1a66f3aa68c00c3010d4e44e403dfc02b512502d
 nav a {
   margin-left: 15px;
   text-decoration: none;
   color: #40e2ff;
   font-weight: bold;
 }
+<<<<<<< HEAD
   nav a:hover {
     text-decoration: underline;
   }
+=======
+
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+>>>>>>> 1a66f3aa68c00c3010d4e44e403dfc02b512502d
   section {
     padding: 40px 20px;
     max-width: 800px;
@@ -74,9 +87,17 @@ nav a {
     color:#4abdc3;
     margin-bottom: 20px;
   }
+<<<<<<< HEAD
   .skills-container span {
     display: inline-block;
     background: #3176b3;
+=======
+
+  
+  .skills-container span {
+    display: inline-block;
+    background: #d1c4e9;
+>>>>>>> 1a66f3aa68c00c3010d4e44e403dfc02b512502d
     color:#4abdc3;
     padding: 10px 15px;
     margin: 5px;
@@ -87,7 +108,11 @@ nav a {
   footer {
     text-align: center;
     padding: 20px;
+<<<<<<< HEAD
     background: #3176b3;
+=======
+    background: #eee;
+>>>>>>> 1a66f3aa68c00c3010d4e44e403dfc02b512502d
     margin-top: 50px;
   }
   /* ===== PROJECT CARDS ===== */
