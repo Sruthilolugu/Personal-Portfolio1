@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-# Personal_Portfolio
-# Personal_Portfolio
+
 # Personal-Portfolio1
-=======
 # Personal-Portfolio1
-Personal Portfolio
 This is a simple and responsive personal portfolio website created using HTML, CSS and JavaScript. It presents a brief introduction and showcases my projects, education background, technical skills, and contact information.
 
 Features
@@ -34,4 +30,3 @@ Folder Structure
 
 Description
 This portfolio is designed to provide a quick and clear overview of who I am and what I can do. It is intended for recruiters, peers, and anyone interested in learning about my projects and skills. Every section is organized to highlight key points and make information easy to access.
->>>>>>> 1a66f3aa68c00c3010d4e44e403dfc02b512502d
